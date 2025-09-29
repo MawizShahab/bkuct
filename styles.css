@@ -860,6 +860,10 @@ footer {
   .footer-main-container {
     padding-top: 0 !important;
   }
+
+  .c-card {
+    width: 342px;
+  }
 }
 
 /* Mobile nav */
