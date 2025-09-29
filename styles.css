@@ -917,7 +917,8 @@ footer {
   .section-title,
   .section-content,
   .card-content,
-  .seperator {
+  .seperator,
+  .c-card-content {
     width: 100%;
   }
 
